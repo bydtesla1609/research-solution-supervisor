@@ -1,0 +1,3 @@
+interface:
+  display_name: "Research Solution Supervisor"
+  short_description: "Audit whether AI work advances a research plan"
